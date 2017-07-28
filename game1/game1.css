@@ -1,0 +1,14 @@
+.row {
+   border: 1px solid black;
+   /*width:360px;   */
+   height:120px
+}
+.cell {
+    border: 1px solid black;
+    display: inline-block;
+    height:118px;
+    width:118px;
+}
+.colorCell {
+    background-color: orange;
+}
